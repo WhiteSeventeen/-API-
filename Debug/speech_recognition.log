@@ -1,0 +1,11 @@
+﻿  speech_recognition_main.cpp
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\operate_csv.h(54,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\operate_csv.h(58,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\operate_csv.h(70,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\operate_csv.h(89,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\Control.h(14,6): warning C4101: “code”: 未引用的局部变量
+C:\Users\1\Desktop\C++兴趣小组\speech_recognition\speech_recognition_main.cpp(44,8): warning C4101: “orig”: 未引用的局部变量
+  speech_recognizer.c
+  winerc.c
+  正在生成代码...
+  speech_recognition.vcxproj -> C:\Users\1\Desktop\C++兴趣小组\speech_recognition\Debug\speech_recognition.exe
